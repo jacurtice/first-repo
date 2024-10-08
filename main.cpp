@@ -1,5 +1,5 @@
 // This is just a test file. Nothing to see here
 
-#include "Character.h"
+#include "Warrior.h"
 
 int main() {}
