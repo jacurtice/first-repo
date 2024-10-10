@@ -2,4 +2,7 @@
 
 #include "Warrior.h"
 
-int main() {}
+int main()
+{
+	// Updated main function
+}
